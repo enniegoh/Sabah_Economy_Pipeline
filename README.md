@@ -23,8 +23,15 @@ This pipeline is designed to run daily via **GitHub Actions**, ensuring that the
 - `sabah_crops.csv`
 - `sabah_interest_rate.csv`
 
-## Libraries And Software Used
-- Python (requests, pandas)
-- GitHub Actions (CI/CD)
+
+# Sabah Economic & Household Dashboard
+
+## Project Overview
+**A fully automated data pipeline and interactive dashboard that tracks selected economic indicators for Sabah, Malaysia.**
+
+This project was built to address the lack of accessible, up-to-date economic data for local residents in Sabah. It automates the retrieval, cleaning, and storage of data from official sources (DOSM & BNM), and visualizes them in a Power BI dashboard.
+
+## Dashboard Snapshot
+
 - OpenDOSM API
 - BNM Open API
