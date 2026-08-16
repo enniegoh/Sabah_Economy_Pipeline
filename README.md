@@ -32,6 +32,4 @@ This pipeline is designed to run daily via **GitHub Actions**, ensuring that the
 This project was built to address the lack of accessible, up-to-date economic data for local residents in Sabah. It automates the retrieval, cleaning, and storage of data from official sources (DOSM & BNM), and visualizes them in a Power BI dashboard.
 
 ## Dashboard Snapshot
-
-- OpenDOSM API
-- BNM Open API
+![image alt](https://github.com/enniegoh/sabah_economy_pipeline/blob/e7f59fda4b91068c7c641ef02aaa78c6fb95b7d6/Sabah_Economy_Dashboard.png)
